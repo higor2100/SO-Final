@@ -6,7 +6,7 @@
 <br>
 <br>Para rodar a aplicação:
 <br>
-<br>./main -e <arquivo para ser estegranografado> <arquivo de saída da esteganografia> <arquivo em texto para esteganografia>\n
+<br>./main -e <arquivo para ser estegranografado> <arquivo de saída da esteganografia> <arquivo em texto para esteganografia>
 <br> ./main -d <arquivo de saída da esteganografia> <sáida de informação> <mensagem extraida>
 <br>
 <br>Exemplo:
